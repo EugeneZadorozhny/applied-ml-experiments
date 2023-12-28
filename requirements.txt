@@ -1,0 +1,12 @@
+jupyter
+numpy
+scikit-learn
+pandas
+seaborn
+plotly
+graphviz
+nltk
+torch
+torchvision
+torchaudio
+cv2module
